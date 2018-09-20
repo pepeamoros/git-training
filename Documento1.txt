@@ -1,7 +1,25 @@
-as fsdf safsdfsdf 
- asdfsadf
-sfdsaf sd
-f sd
-fsd
- fsd
-fsdf
+# Comandos GIT 
+	* git clone <url>
+	* 
+		- git init
+		- git remote add origin <url>
+
+	* git pull origin
+
+	* git add .
+	* git commit -m "comentario del git"
+
+	* git init
+
+	* git status
+	* git log
+
+		
+	
+
+https://gist.github.com/KefDS/5c6e6db367ba69d96dfc
+
+http://git.gft.com
+
+Editor 
+	Salir  :WQ	
