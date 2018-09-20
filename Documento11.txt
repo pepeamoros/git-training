@@ -1,4 +1,4 @@
-# Comandos GIT 
+﻿# Comandos GIT 
 	* git clone <url>
 	* 
 		- git init
@@ -14,6 +14,7 @@
 	* git status
 	* git log
 
+		
 	
 
 https://gist.github.com/KefDS/5c6e6db367ba69d96dfc
@@ -27,16 +28,7 @@ Editor Comando Acción
 	:w Guardar cambios
 	:w archivo1 Guardar cambios en archivo1
 	:wq Guardar cambios y salir
-	
-	
-2.- commiting changes II
-		- vi README.md
-		- git add.
-		- git commit - m "ejercicio 2 commit 1"
-		- vi README.md
-		- git add.
-		- git commit - m "ejercicio 2 commit 2"
-		- git log
-		- git reset --soft HEAD-2
-		- git commit -m "ejercicio 2 commit 3
-		- git push -u  origin master
+
+
+asdfdsa fsaf sdfds
+sa dfsafsdfsd
