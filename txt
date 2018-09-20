@@ -1,0 +1,5 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 6409-03D5
+
+ Directorio de C:\cursogit\git-training
+
