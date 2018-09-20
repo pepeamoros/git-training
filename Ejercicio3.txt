@@ -1,0 +1,16 @@
+- git branch feature/exercise3
+- git checkout features/exercise3
+o 
+- git checkout -b features/exercise3
+- git push origin features/exercise3
+- vi readme.md
+- git add .
+- git commit -m "ejercicio 3"
+- git checkout master
+- git merge features/exercise3
+- git push -u origin master
+- git branch -D feature/exercise3
+- git push --delete origin feature/exercise3
+
+asdf sadfsdafdsf
+sadfdsf

@@ -37,6 +37,9 @@ Editor Comando Acción
 		- git add.
 		- git commit - m "ejercicio 2 commit 2"
 		- git log
-		- git reset --soft HEAD-2
+		- git reset --soft HEAD~2
 		- git commit -m "ejercicio 2 commit 3
 		- git push -u  origin master
+		
+		
+gitk --all		
