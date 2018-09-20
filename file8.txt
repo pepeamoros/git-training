@@ -1,0 +1,22 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 6409-03D5
+
+ Directorio de C:\cursogit\git-training
+
+20/09/2018  14:22    <DIR>          .
+20/09/2018  14:22    <DIR>          ..
+20/09/2018  13:42               791 Documento1.txt
+20/09/2018  13:22               518 Documento11.txt
+20/09/2018  13:28                74 Documento2.txt
+20/09/2018  13:42               401 Ejercicio3.txt
+20/09/2018  14:22               281 Ejercicio4.txt
+20/09/2018  14:22                74 file.txt
+20/09/2018  14:22                 0 file8.txt
+20/09/2018  14:22                22 filepepe
+20/09/2018  14:22               111 filepepe.txt
+20/09/2018  14:01                18 new 1.txt
+20/09/2018  14:22               915 pp.txt
+20/09/2018  12:32                14 README - copia.md
+20/09/2018  12:32                14 README.md
+              13 archivos          3.233 bytes
+               2 dirs  110.259.843.072 bytes libres
