@@ -1,0 +1,16 @@
+- git checkout -b features/featureGFT
+
+- git push origin features/exercise3
+- vi readme.md
+- git add .
+- git commit -m "ejercicio 4"
+- git checkout master
+- git merge --no-ff features/featureGFT
+
+
+
+asdfasfsf asdfsf
+asdfsafds
+fsdf
+dsf
+sdfd
