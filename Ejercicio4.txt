@@ -8,4 +8,11 @@
 - git merge --no-ff features/featureGFT
 
 
+asdfasfsf asdfsf
+asdfsafds
+fsdf
+dsf
+sdfd
 
+
+resulto los confilctos
